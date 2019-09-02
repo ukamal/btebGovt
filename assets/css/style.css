@@ -1,0 +1,252 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.headerBg {
+    background: #683091;
+    border-bottom: 2px solid #8DC04E;
+    width: 73%;
+}
+section#headerTopArea ul li {
+    display: inline-block;
+}
+select#Bangladesh {
+    padding: 7px;
+    position: absolute;
+    right: 47px;
+    top: 10px;
+}
+
+li.nameList {
+    position: relative;
+}
+
+button.btn.btn-success {
+    display: block;
+    padding: 7px 12px;
+    margin-top: 10px;
+}
+ul.navbar li a {
+    color: #fff;
+}
+
+li.national {
+    position: absolute;
+    left: 45px;
+    top: 15px;
+}
+input#search {
+    padding: 5px;
+    margin-right: -5px;
+}
+
+.languageRight {
+    margin-top: 7px;
+    float: right;
+}
+/**********************
+End of headerArea
+**********************/
+
+/**********************
+Styling of sliderArea
+**********************/
+.carousel-item img{
+    height: 220px;
+    width: 89%!important;
+    margin: 0 auto;
+}
+.sliderArea {
+    position: relative;
+}
+.carouselTitle {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    color: #fff;
+    text-shadow: 0px 5px #000;
+}
+span.slogan {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+span.slogan2 {
+    font-weight: 400;
+    margin-left: 14%;
+    font-size: 20px;
+}
+
+/**********************
+Styling of navbarArea
+**********************/
+section#navbarArea {
+    width: 76%;
+    margin: 0 auto;
+}
+
+a#navbarDropdown {
+    font-size: 13px;
+}
+li.nav-item.dropdown {
+    border-right: 1px dotted #ccc;
+}
+.nav-item.dropdown:hover {
+    background: #FF6600;
+}
+li.nav-item:hover {
+    background: #FF6600;
+}
+#navbarSupportedContent ul li a:hover{
+    color: #fff!important;
+}
+.bg-light{
+    height: 40px;
+    border-bottom: 1px dotted #ccc;
+}
+
+
+/**********************
+Styling of mainContentArea
+**********************/
+section#mainContentArea {
+    width: 74%;
+    margin: 0 auto;
+}
+.noticeBoard ul li a {
+    font-size: 13px;
+    float: right;
+    color: #000;
+        border-bottom: dashed 1px #ccc;
+}
+
+.noticeBoard ul li {
+    list-style-type: none;
+        line-height: 25px;
+}
+.sun img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.noticeBoard h3 {
+    position: absolute;
+    top: 10px;
+    left: 17%;
+}
+marquee {
+    height: 50px;
+}
+h5.card-title {
+    background: #609513;
+    padding: 10px;
+    color: #fff;
+}
+.card-body.padding {
+    position: relative;
+    padding: 40px;
+    background: linear-gradient(0deg, #EDEDED, white 100%);
+}
+span.allBox a {
+    color: #000;
+}
+span.allBox {
+    position: absolute;
+    bottom: 0;
+    right: 45px;
+    background: #999999;
+    padding: 3px;
+}
+.noticeBoardLeft ul li {
+    list-style-type: none;
+    margin-left: -34px;
+}
+.noticeBoardLeft ul li a {
+    color: #000;font-size: 14px;
+}
+svg.svg-inline--fa.fa-caret-right.fa-w-6 {
+    color: #29C944;
+    font-size: 17px;
+}
+.noticeBoardRight {
+    position: relative;
+}
+.card-img {
+    position: absolute;
+    top: 15px;
+}
+p.admission {
+    font-size: 15px;
+    text-align: center;
+}
+.card-body.bg {
+    background: linear-gradient(0deg, #EDEDED, white 100%);
+}
+
+
+/************************
+Right sidebar
+************************/
+.mainContentRight img {
+    height: 160px;
+    width: 130px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+/**********************
+Styling of footerArea
+**********************/
+#footerArea{
+    background: #EBEBEB;
+    width: 76%;
+    margin: 0 auto;
+}
+.footerBottomLeft ul li a {
+    font-size: 14px;
+    color: #000;
+}
+.footerBottomLeft ul li {
+    display: inline-block;
+    border-left: 1px dashed #ccc;
+}
+.footerBottomLeft ul li:hover {
+    background: #777777;
+}
+.familyPlaning ul li {
+    display: inline-block;
+    font-size: 14px;
+}
+.familyPlaning ul li a {
+    color: #000;
+}
+.familyPlaning {
+    font-size: 14px;
+    padding-top: 20px;
+}
+section#footerBgTree {
+    margin-bottom: -33px;
+}
+p.tacnicle {
+    font-size: 14px;
+    margin-right: 30px;
+}
+.footerBottomLeft {
+    padding-top: 20px;
+}
+p.dateFooter {
+    margin-left: 35px;
+    font-size: 14px;
+}
+.footerBottomLeft ul li {
+    padding: 5px;
+}
